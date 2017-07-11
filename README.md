@@ -8,5 +8,5 @@
 # install dependencies
 npm install
 
-# serve at localhost:8080
+# serve at localhost:3000 if process.env.PORT isn't set
 node server.js
